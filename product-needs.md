@@ -16,7 +16,7 @@ _(Extracted from https://medium.com/@jaf_designer/what-people-really-want-dc5982
 
 * you don't want a scissor and a hair comb: you want your hair to look pretty.
 * you don't want a toothbrush: you want to have a beatiful smile
-Instead of focusing what people is saying, the idea is focusing on the job they want to avoid. And they want to avoid it because there is a problem related to that job. The job is the way of solving the problem, so you should focus on **satisfying needs by understanding the jobs people wan to get done**.
+Instead of focusing what people is saying, the idea is focusing on the job they want to avoid. And they want to avoid it because there is a problem related to that job. The job is the way of solving the problem, so you should focus on **satisfying needs by understanding the jobs people want to get done**.
 
 Some tips/phrases to remember:
 * _products serve core needs, not what people want_ 
